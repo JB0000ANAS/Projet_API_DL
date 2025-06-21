@@ -33,8 +33,14 @@ POST /feedback        → Retours utilisateur
 - Cartes de consommation par quartier
 - Alertes d'optimisation
 
-##  Architecture
-**APIs externes** → **API interne** → **Modèle ML** → **Dashboard**
-
+##  Architecture GitHub
+```
+- main : Branche stable de production
+- develop : Intégration et tests
+- feature/api-backend : Développement API REST
+- feature/data-collection : Intégration APIs externes
+- feature/frontend-viz : Dashboard et visualisations
+- feature/ml-model : Modèles deep learning
+```
 ##  Livrable
 Système complet fonctionnel d'ici le 06/07/2025
