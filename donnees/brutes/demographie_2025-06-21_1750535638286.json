@@ -1,0 +1,132 @@
+[
+  {
+    "idZone": 1,
+    "nomZone": "Quartier Leanne Graham",
+    "population": 17575,
+    "densiteHabitants": 1649,
+    "nombreLogements": 12189,
+    "typeZone": "residentiel",
+    "coordonnees": {
+      "latitude": -37.3159,
+      "longitude": 81.1496
+    },
+    "horodatage": "2025-06-21T19:53:57.011Z"
+  },
+  {
+    "idZone": 2,
+    "nomZone": "Quartier Ervin Howell",
+    "population": 39994,
+    "densiteHabitants": 5053,
+    "nombreLogements": 13707,
+    "typeZone": "industriel",
+    "coordonnees": {
+      "latitude": -43.9509,
+      "longitude": -34.4618
+    },
+    "horodatage": "2025-06-21T19:53:57.125Z"
+  },
+  {
+    "idZone": 3,
+    "nomZone": "Quartier Clementine Bauch",
+    "population": 15568,
+    "densiteHabitants": 2442,
+    "nombreLogements": 20324,
+    "typeZone": "mixte",
+    "coordonnees": {
+      "latitude": -68.6102,
+      "longitude": -47.0653
+    },
+    "horodatage": "2025-06-21T19:53:57.214Z"
+  },
+  {
+    "idZone": 4,
+    "nomZone": "Quartier Patricia Lebsack",
+    "population": 41223,
+    "densiteHabitants": 4849,
+    "nombreLogements": 16359,
+    "typeZone": "residentiel",
+    "coordonnees": {
+      "latitude": 29.4572,
+      "longitude": -164.299
+    },
+    "horodatage": "2025-06-21T19:53:57.350Z"
+  },
+  {
+    "idZone": 5,
+    "nomZone": "Quartier Chelsey Dietrich",
+    "population": 22570,
+    "densiteHabitants": 4042,
+    "nombreLogements": 11385,
+    "typeZone": "commercial",
+    "coordonnees": {
+      "latitude": -31.8129,
+      "longitude": 62.5342
+    },
+    "horodatage": "2025-06-21T19:53:57.440Z"
+  },
+  {
+    "idZone": 6,
+    "nomZone": "Quartier Mrs. Dennis Schulist",
+    "population": 20004,
+    "densiteHabitants": 1935,
+    "nombreLogements": 9987,
+    "typeZone": "industriel",
+    "coordonnees": {
+      "latitude": -71.4197,
+      "longitude": 71.7478
+    },
+    "horodatage": "2025-06-21T19:53:57.566Z"
+  },
+  {
+    "idZone": 7,
+    "nomZone": "Quartier Kurtis Weissnat",
+    "population": 38339,
+    "densiteHabitants": 5290,
+    "nombreLogements": 7081,
+    "typeZone": "industriel",
+    "coordonnees": {
+      "latitude": 24.8918,
+      "longitude": 21.8984
+    },
+    "horodatage": "2025-06-21T19:53:57.931Z"
+  },
+  {
+    "idZone": 8,
+    "nomZone": "Quartier Nicholas Runolfsdottir V",
+    "population": 48879,
+    "densiteHabitants": 4787,
+    "nombreLogements": 20503,
+    "typeZone": "industriel",
+    "coordonnees": {
+      "latitude": -14.399,
+      "longitude": -120.7677
+    },
+    "horodatage": "2025-06-21T19:53:58.030Z"
+  },
+  {
+    "idZone": 9,
+    "nomZone": "Quartier Glenna Reichert",
+    "population": 42944,
+    "densiteHabitants": 5994,
+    "nombreLogements": 7059,
+    "typeZone": "commercial",
+    "coordonnees": {
+      "latitude": 24.6463,
+      "longitude": -168.8889
+    },
+    "horodatage": "2025-06-21T19:53:58.135Z"
+  },
+  {
+    "idZone": 10,
+    "nomZone": "Quartier Clementina DuBuque",
+    "population": 42410,
+    "densiteHabitants": 1543,
+    "nombreLogements": 20557,
+    "typeZone": "commercial",
+    "coordonnees": {
+      "latitude": -38.2386,
+      "longitude": 57.2232
+    },
+    "horodatage": "2025-06-21T19:53:58.232Z"
+  }
+]

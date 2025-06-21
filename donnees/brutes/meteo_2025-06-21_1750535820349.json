@@ -1,0 +1,72 @@
+[
+  {
+    "ville": "Paris",
+    "temperature": 30.46,
+    "humidite": 32,
+    "pression": 1016,
+    "vitesseVent": 2.57,
+    "nebulosite": 0,
+    "description": "ciel dégagé",
+    "horodatage": "2025-06-21T19:56:58.016Z",
+    "coordonnees": {
+      "lat": 48.8534,
+      "lon": 2.3488
+    }
+  },
+  {
+    "ville": "Lyon",
+    "temperature": 24.72,
+    "humidite": 64,
+    "pression": 1018,
+    "vitesseVent": 0.99,
+    "nebulosite": 0,
+    "description": "ciel dégagé",
+    "horodatage": "2025-06-21T19:56:58.016Z",
+    "coordonnees": {
+      "lat": 45.75,
+      "lon": 4.5833
+    }
+  },
+  {
+    "ville": "Marseille",
+    "temperature": 25.46,
+    "humidite": 55,
+    "pression": 1018,
+    "vitesseVent": 2.15,
+    "nebulosite": 0,
+    "description": "ciel dégagé",
+    "horodatage": "2025-06-21T19:56:58.016Z",
+    "coordonnees": {
+      "lat": 43.3333,
+      "lon": 5.5
+    }
+  },
+  {
+    "ville": "Toulouse",
+    "temperature": 32.99,
+    "humidite": 27,
+    "pression": 1016,
+    "vitesseVent": 1.54,
+    "nebulosite": 0,
+    "description": "ciel dégagé",
+    "horodatage": "2025-06-21T19:56:58.016Z",
+    "coordonnees": {
+      "lat": 43.6043,
+      "lon": 1.4437
+    }
+  },
+  {
+    "ville": "Nice",
+    "temperature": 11.98,
+    "humidite": 86,
+    "pression": 1021,
+    "vitesseVent": 3.9,
+    "nebulosite": 53,
+    "description": "nuageux",
+    "horodatage": "2025-06-21T19:56:58.016Z",
+    "coordonnees": {
+      "lat": 44,
+      "lon": 7.25
+    }
+  }
+]
