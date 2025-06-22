@@ -1,0 +1,27 @@
+{
+  "consommation": {
+    "min": 255.02,
+    "max": 2344.35,
+    "moyenne": 990.2396116666563
+  },
+  "population": {
+    "min": 15568,
+    "max": 48879,
+    "moyenne": 32950.6
+  },
+  "densiteHabitants": {
+    "min": 1543,
+    "max": 5994,
+    "moyenne": 3758.4
+  },
+  "temperature": {
+    "min": 25.12,
+    "max": 25.12,
+    "moyenne": 25.11999999999991
+  },
+  "humidite": {
+    "min": 53,
+    "max": 53,
+    "moyenne": 53
+  }
+}
