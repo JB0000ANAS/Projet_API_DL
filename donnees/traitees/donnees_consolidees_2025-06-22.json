@@ -1,0 +1,5488 @@
+{
+  "meteo": [
+    {
+      "ville": "Paris",
+      "temperature": 30.46,
+      "humidite": 32,
+      "pression": 1016,
+      "vitesseVent": 2.57,
+      "nebulosite": 0,
+      "description": "ciel dégagé",
+      "horodatage": "2025-06-21T19:56:58.016Z",
+      "coordonnees": {
+        "lat": 48.8534,
+        "lon": 2.3488
+      }
+    },
+    {
+      "ville": "Lyon",
+      "temperature": 24.72,
+      "humidite": 64,
+      "pression": 1018,
+      "vitesseVent": 0.99,
+      "nebulosite": 0,
+      "description": "ciel dégagé",
+      "horodatage": "2025-06-21T19:56:58.016Z",
+      "coordonnees": {
+        "lat": 45.75,
+        "lon": 4.5833
+      }
+    },
+    {
+      "ville": "Marseille",
+      "temperature": 25.46,
+      "humidite": 55,
+      "pression": 1018,
+      "vitesseVent": 2.15,
+      "nebulosite": 0,
+      "description": "ciel dégagé",
+      "horodatage": "2025-06-21T19:56:58.016Z",
+      "coordonnees": {
+        "lat": 43.3333,
+        "lon": 5.5
+      }
+    },
+    {
+      "ville": "Toulouse",
+      "temperature": 32.99,
+      "humidite": 27,
+      "pression": 1016,
+      "vitesseVent": 1.54,
+      "nebulosite": 0,
+      "description": "ciel dégagé",
+      "horodatage": "2025-06-21T19:56:58.016Z",
+      "coordonnees": {
+        "lat": 43.6043,
+        "lon": 1.4437
+      }
+    },
+    {
+      "ville": "Nice",
+      "temperature": 11.98,
+      "humidite": 86,
+      "pression": 1021,
+      "vitesseVent": 3.9,
+      "nebulosite": 53,
+      "description": "nuageux",
+      "horodatage": "2025-06-21T19:56:58.016Z",
+      "coordonnees": {
+        "lat": 44,
+        "lon": 7.25
+      }
+    }
+  ],
+  "demographie": [
+    {
+      "idZone": 1,
+      "nomZone": "Quartier Leanne Graham",
+      "population": 17575,
+      "densiteHabitants": 1649,
+      "nombreLogements": 12189,
+      "typeZone": "residentiel",
+      "coordonnees": {
+        "latitude": -37.3159,
+        "longitude": 81.1496
+      },
+      "horodatage": "2025-06-21T19:53:57.011Z"
+    },
+    {
+      "idZone": 2,
+      "nomZone": "Quartier Ervin Howell",
+      "population": 39994,
+      "densiteHabitants": 5053,
+      "nombreLogements": 13707,
+      "typeZone": "industriel",
+      "coordonnees": {
+        "latitude": -43.9509,
+        "longitude": -34.4618
+      },
+      "horodatage": "2025-06-21T19:53:57.125Z"
+    },
+    {
+      "idZone": 3,
+      "nomZone": "Quartier Clementine Bauch",
+      "population": 15568,
+      "densiteHabitants": 2442,
+      "nombreLogements": 20324,
+      "typeZone": "mixte",
+      "coordonnees": {
+        "latitude": -68.6102,
+        "longitude": -47.0653
+      },
+      "horodatage": "2025-06-21T19:53:57.214Z"
+    },
+    {
+      "idZone": 4,
+      "nomZone": "Quartier Patricia Lebsack",
+      "population": 41223,
+      "densiteHabitants": 4849,
+      "nombreLogements": 16359,
+      "typeZone": "residentiel",
+      "coordonnees": {
+        "latitude": 29.4572,
+        "longitude": -164.299
+      },
+      "horodatage": "2025-06-21T19:53:57.350Z"
+    },
+    {
+      "idZone": 5,
+      "nomZone": "Quartier Chelsey Dietrich",
+      "population": 22570,
+      "densiteHabitants": 4042,
+      "nombreLogements": 11385,
+      "typeZone": "commercial",
+      "coordonnees": {
+        "latitude": -31.8129,
+        "longitude": 62.5342
+      },
+      "horodatage": "2025-06-21T19:53:57.440Z"
+    },
+    {
+      "idZone": 6,
+      "nomZone": "Quartier Mrs. Dennis Schulist",
+      "population": 20004,
+      "densiteHabitants": 1935,
+      "nombreLogements": 9987,
+      "typeZone": "industriel",
+      "coordonnees": {
+        "latitude": -71.4197,
+        "longitude": 71.7478
+      },
+      "horodatage": "2025-06-21T19:53:57.566Z"
+    },
+    {
+      "idZone": 7,
+      "nomZone": "Quartier Kurtis Weissnat",
+      "population": 38339,
+      "densiteHabitants": 5290,
+      "nombreLogements": 7081,
+      "typeZone": "industriel",
+      "coordonnees": {
+        "latitude": 24.8918,
+        "longitude": 21.8984
+      },
+      "horodatage": "2025-06-21T19:53:57.931Z"
+    },
+    {
+      "idZone": 8,
+      "nomZone": "Quartier Nicholas Runolfsdottir V",
+      "population": 48879,
+      "densiteHabitants": 4787,
+      "nombreLogements": 20503,
+      "typeZone": "industriel",
+      "coordonnees": {
+        "latitude": -14.399,
+        "longitude": -120.7677
+      },
+      "horodatage": "2025-06-21T19:53:58.030Z"
+    },
+    {
+      "idZone": 9,
+      "nomZone": "Quartier Glenna Reichert",
+      "population": 42944,
+      "densiteHabitants": 5994,
+      "nombreLogements": 7059,
+      "typeZone": "commercial",
+      "coordonnees": {
+        "latitude": 24.6463,
+        "longitude": -168.8889
+      },
+      "horodatage": "2025-06-21T19:53:58.135Z"
+    },
+    {
+      "idZone": 10,
+      "nomZone": "Quartier Clementina DuBuque",
+      "population": 42410,
+      "densiteHabitants": 1543,
+      "nombreLogements": 20557,
+      "typeZone": "commercial",
+      "coordonnees": {
+        "latitude": -38.2386,
+        "longitude": 57.2232
+      },
+      "horodatage": "2025-06-21T19:53:58.232Z"
+    }
+  ],
+  "consommation": [
+    {
+      "idZone": 1,
+      "consommationKwh": 876.27,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 716.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 617.34,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 755.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 753.05,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 771.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 668.34,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 555.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 378.82,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 504.76,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 852.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 382.18,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 838.55,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 361.48,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 809.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 614.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 877.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 610.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 355.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 859.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T22:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 281.75,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 594.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 470.33,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 659.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 748.43,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 406.05,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 409.01,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 535.45,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 534.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 626.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 741.64,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 266.87,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 509.46,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 460.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 578.59,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 285.11,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 477.26,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 651.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 453.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 727.59,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-20T23:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 386.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 413.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 497.42,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 394.03,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 473.92,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 322.48,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 560.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 592.27,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 407.47,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 317.61,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 260.99,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 257.64,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 563.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 529.05,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 437.07,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 566.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 733.16,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 649.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 269.56,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 732.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T00:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 457.64,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 255.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 312.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 594.88,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 684.98,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 330.57,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 279.34,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 539.47,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 411.56,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 601.8,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 514.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 472.98,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 312,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 443.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 262.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 536.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 557.63,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 351.34,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 562.67,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 401.56,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T01:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 631.99,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 744.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 451.64,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 262,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 712.97,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 735.99,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 293.47,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 547.48,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 441.26,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 537.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 740.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 559.01,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 607.08,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 323.9,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 664.08,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 640,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 367.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 405.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 268.9,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 626.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T02:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 723.86,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 554.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 614.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 619.94,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 552.19,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 692.84,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 888.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 829.59,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 588.27,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 520.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 418.97,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 313.35,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 616.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 415.78,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 857.29,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 304.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 557.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 550.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 591.19,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 854.44,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T03:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1066.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 981.18,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 845.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1086.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 895,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1057.42,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1049.47,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 618.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 407.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 502.93,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 919.54,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 413.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1004.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 541.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 559.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 966.98,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 951.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 634.12,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 520,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 741.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T04:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 510.13,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1442.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1267.66,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1404.54,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1418.25,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1137.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1037.46,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 590.29,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1246.64,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 582.1,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 578.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1468.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 567.18,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 902.78,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1033.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 682.79,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1499.16,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1240.13,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 781.07,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1357.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T05:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1756.6,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 977.69,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1517.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1651.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1194.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 981.2,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1369.69,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 617.12,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1650.29,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1454.01,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1771.34,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 992.89,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1145.7,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1319.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1277.2,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 803.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 915.79,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1057.19,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 929.01,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 879.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T06:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 725.7,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1284.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1008.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1492.62,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 771.16,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 924.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 950.76,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1466.23,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1066.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1387.92,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1306.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 720.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 610.6,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 925.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 701.6,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 879.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1288.18,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1403.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 844.83,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1253.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T07:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 807.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1185.33,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 668.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 751.46,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 462.74,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1162.22,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 469.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 658.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 816.79,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1300.88,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 569.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 821.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 961.61,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 900.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 875.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 855.78,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1137.13,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 988.7,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 690.95,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1008.06,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T08:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 512.89,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 764.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 740.93,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 885.05,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1263.74,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 795.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 991.29,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 950.93,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1200.59,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 486.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 606.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 780.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 598.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1014.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 606.61,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 651.33,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1145.65,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 959.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 609.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1241.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T09:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1359.83,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1234.89,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1271.34,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 967.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 669.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1302.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 800.47,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1455.37,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1484.94,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1078.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1489.47,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 815.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 759.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 920.43,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 566.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1212.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1459.65,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1029.67,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1223.76,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 991.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T10:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 950.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1294.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1214.87,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 737.19,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 847.22,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 774.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 852.62,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1402.88,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1000.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1114.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1078.62,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 823.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1295.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1203.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1021.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 617.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 612.55,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1213.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1192.53,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1316.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T11:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 699.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 887.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1217.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1058.88,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1328.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 579.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1216.08,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 632.51,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 742.89,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 675.39,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1256.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 754.13,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 578.88,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1226.1,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1170.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1320.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 452.37,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1203.87,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1252.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 919.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T12:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 737.7,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 625.04,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 669.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 524.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 946.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1236.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1047.16,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 798.39,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1029.26,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 703.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 552.95,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1323.1,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1064.79,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 608.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 555.11,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 493.2,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1319.53,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1263.54,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 703.78,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1289.49,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T13:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1352.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 604.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1156.63,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 870.57,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 654.59,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1085.82,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 999.79,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 523.87,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1428.45,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1302.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1058.37,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 790.03,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 725.67,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 926.28,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1323.85,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 873.63,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1409.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1449.09,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1475.91,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 545.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T14:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 729.44,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1739.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 636.69,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1565.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 986.63,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1300.49,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1383.9,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 702.66,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1236.37,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 671.03,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1489.28,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1378.43,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 814.99,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1288.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1045.9,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1662.94,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1549.9,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 955.55,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1557.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1744.03,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T15:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1188.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 837.14,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1642.24,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1123.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1810.92,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 2058.26,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 2080.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1529.4,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1058.77,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1453.37,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 925.7,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1234.11,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1101.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1735.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 2030.54,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 887.11,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1074.22,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 2007.28,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 2111.06,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 2134.67,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T16:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 2065.94,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 2249.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 2304.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1791.23,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 2092.65,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1825.44,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 2315.43,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 2344.35,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1898.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 2109.73,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1026.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 2141.87,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 877.35,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1279.39,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 2138.72,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1127.55,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1195.7,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1010.93,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1873.55,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1150.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T17:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1479.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1272.83,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 999.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1559.27,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 827.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1203.42,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1524.66,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1787.81,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1167.49,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1028.91,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1625.92,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1277.66,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1437.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1587.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 790.48,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1134.15,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1524.18,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1223.21,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1784.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1765.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T18:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1243.94,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1375.07,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1772.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 657.99,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1496.44,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1398.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1559.01,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 877.33,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1563.52,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1355.28,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 696.93,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1185.53,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 977.56,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 1197.49,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1192.84,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1679.03,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1678.93,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 720.48,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1688.95,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 984.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T19:00:00.000Z",
+      "facteurs": {
+        "heurePointe": true,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1212.37,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1268.85,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1101.32,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 718.71,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 526.35,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1484.02,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 589.58,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1381.33,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 694.91,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 1216.48,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 772.78,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 1448.6,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 1232.57,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 712.44,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1113.59,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 612.13,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 894.18,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 692.87,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 1087.33,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 829.86,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T20:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 417.11,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 455.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 956.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 453.38,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 560.36,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 739.46,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 1099.57,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 1169.68,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 629.85,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 571.96,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 1,
+      "consommationKwh": 1050.3,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 2,
+      "consommationKwh": 661.41,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 3,
+      "consommationKwh": 754.1,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 4,
+      "consommationKwh": 794.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 5,
+      "consommationKwh": 1050.44,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 6,
+      "consommationKwh": 1099.17,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 7,
+      "consommationKwh": 408.31,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 8,
+      "consommationKwh": 791.5,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 9,
+      "consommationKwh": 688.07,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    },
+    {
+      "idZone": 10,
+      "consommationKwh": 613.16,
+      "typeEnergie": "electrique",
+      "horodatage": "2025-06-21T21:00:00.000Z",
+      "facteurs": {
+        "heurePointe": false,
+        "weekend": true,
+        "saison": "ete"
+      }
+    }
+  ]
+}

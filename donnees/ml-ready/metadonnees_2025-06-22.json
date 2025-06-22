@@ -1,0 +1,21 @@
+{
+  "dateCreation": "2025-06-22T14:08:15.387Z",
+  "tailleDatasets": {
+    "train": 168,
+    "validation": 36,
+    "test": 36,
+    "total": 240
+  },
+  "donneesOriginales": {
+    "meteo": 5,
+    "demographie": 10,
+    "consommation": 480
+  },
+  "configurationLSTM": {
+    "longueurSequence": 24,
+    "nombreFeatures": 6,
+    "nombreFeaturesContexte": 7,
+    "sortie": 1
+  },
+  "description": "Datasets prêts pour entraînement LSTM de prédiction de consommation énergétique"
+}

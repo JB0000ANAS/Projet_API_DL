@@ -1,0 +1,396 @@
+{
+  "dateAnalyse": "2025-06-22T14:04:14.658Z",
+  "totalFichiers": 6,
+  "fichiersMeteo": [
+    {
+      "nomFichier": "meteo_2025-06-21_1750535636867.json",
+      "taille": 0,
+      "type": "meteo",
+      "valeursManquantes": 0,
+      "doublons": 0,
+      "valeursAberrantes": 0,
+      "plageTemporelle": null,
+      "champs": {},
+      "qualiteGlobale": "Bonne"
+    },
+    {
+      "nomFichier": "meteo_2025-06-21_1750535820349.json",
+      "taille": 5,
+      "type": "meteo",
+      "valeursManquantes": 0,
+      "doublons": 0,
+      "valeursAberrantes": 0,
+      "plageTemporelle": {
+        "debut": "2025-06-21T19:56:58.016Z",
+        "fin": "2025-06-21T19:56:58.016Z",
+        "duree": 0
+      },
+      "champs": {
+        "ville": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 5,
+            "longueurMoyenne": 6,
+            "nombreValeurs": 5
+          }
+        },
+        "temperature": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 11.98,
+            "max": 32.99,
+            "moyenne": 25.122,
+            "nombreValeurs": 5
+          }
+        },
+        "humidite": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 27,
+            "max": 86,
+            "moyenne": 52.8,
+            "nombreValeurs": 5
+          }
+        },
+        "pression": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1016,
+            "max": 1021,
+            "moyenne": 1017.8,
+            "nombreValeurs": 5
+          }
+        },
+        "vitesseVent": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 0.99,
+            "max": 3.9,
+            "moyenne": 2.2299999999999995,
+            "nombreValeurs": 5
+          }
+        },
+        "nebulosite": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 0,
+            "max": 53,
+            "moyenne": 10.6,
+            "nombreValeurs": 5
+          }
+        },
+        "description": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 2,
+            "longueurMoyenne": 10.2,
+            "nombreValeurs": 5
+          }
+        },
+        "horodatage": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 1,
+            "longueurMoyenne": 24,
+            "nombreValeurs": 5
+          }
+        },
+        "coordonnees": {
+          "type": "object",
+          "statistiques": {
+            "nombreValeurs": 5
+          }
+        }
+      },
+      "qualiteGlobale": "Bonne"
+    }
+  ],
+  "fichiersDemographie": [
+    {
+      "nomFichier": "demographie_2025-06-21_1750535638286.json",
+      "taille": 10,
+      "type": "demographie",
+      "valeursManquantes": 0,
+      "doublons": 0,
+      "valeursAberrantes": 0,
+      "plageTemporelle": {
+        "debut": "2025-06-21T19:53:57.011Z",
+        "fin": "2025-06-21T19:53:58.232Z",
+        "duree": 0.00033916666666666665
+      },
+      "champs": {
+        "idZone": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1,
+            "max": 10,
+            "moyenne": 5.5,
+            "nombreValeurs": 10
+          }
+        },
+        "nomZone": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 10,
+            "longueurMoyenne": 25.5,
+            "nombreValeurs": 10
+          }
+        },
+        "population": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 15568,
+            "max": 48879,
+            "moyenne": 32950.6,
+            "nombreValeurs": 10
+          }
+        },
+        "densiteHabitants": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1543,
+            "max": 5994,
+            "moyenne": 3758.4,
+            "nombreValeurs": 10
+          }
+        },
+        "nombreLogements": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 7059,
+            "max": 20557,
+            "moyenne": 13915.1,
+            "nombreValeurs": 10
+          }
+        },
+        "typeZone": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 4,
+            "longueurMoyenne": 9.7,
+            "nombreValeurs": 10
+          }
+        },
+        "coordonnees": {
+          "type": "object",
+          "statistiques": {
+            "nombreValeurs": 10
+          }
+        },
+        "horodatage": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 10,
+            "longueurMoyenne": 24,
+            "nombreValeurs": 10
+          }
+        }
+      },
+      "qualiteGlobale": "Excellente"
+    },
+    {
+      "nomFichier": "demographie_2025-06-21_1750535821716.json",
+      "taille": 10,
+      "type": "demographie",
+      "valeursManquantes": 0,
+      "doublons": 0,
+      "valeursAberrantes": 0,
+      "plageTemporelle": {
+        "debut": "2025-06-21T19:57:00.553Z",
+        "fin": "2025-06-21T19:57:01.656Z",
+        "duree": 0.00030638888888888887
+      },
+      "champs": {
+        "idZone": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1,
+            "max": 10,
+            "moyenne": 5.5,
+            "nombreValeurs": 10
+          }
+        },
+        "nomZone": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 10,
+            "longueurMoyenne": 25.5,
+            "nombreValeurs": 10
+          }
+        },
+        "population": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 11630,
+            "max": 58556,
+            "moyenne": 31987,
+            "nombreValeurs": 10
+          }
+        },
+        "densiteHabitants": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1061,
+            "max": 5645,
+            "moyenne": 3163.5,
+            "nombreValeurs": 10
+          }
+        },
+        "nombreLogements": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 5332,
+            "max": 23589,
+            "moyenne": 13401.4,
+            "nombreValeurs": 10
+          }
+        },
+        "typeZone": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 3,
+            "longueurMoyenne": 7.8,
+            "nombreValeurs": 10
+          }
+        },
+        "coordonnees": {
+          "type": "object",
+          "statistiques": {
+            "nombreValeurs": 10
+          }
+        },
+        "horodatage": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 10,
+            "longueurMoyenne": 24,
+            "nombreValeurs": 10
+          }
+        }
+      },
+      "qualiteGlobale": "Excellente"
+    }
+  ],
+  "fichiersConsommation": [
+    {
+      "nomFichier": "consommation_2025-06-21_1750535638299.json",
+      "taille": 240,
+      "type": "consommation",
+      "valeursManquantes": 0,
+      "doublons": 0,
+      "valeursAberrantes": 0,
+      "plageTemporelle": {
+        "debut": "2025-06-20T22:00:00.000Z",
+        "fin": "2025-06-21T21:00:00.000Z",
+        "duree": 23
+      },
+      "champs": {
+        "idZone": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1,
+            "max": 10,
+            "moyenne": 5.5,
+            "nombreValeurs": 240
+          }
+        },
+        "consommationKwh": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 255.02,
+            "max": 2344.35,
+            "moyenne": 967.4350000000007,
+            "nombreValeurs": 240
+          }
+        },
+        "typeEnergie": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 1,
+            "longueurMoyenne": 10,
+            "nombreValeurs": 240
+          }
+        },
+        "horodatage": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 24,
+            "longueurMoyenne": 24,
+            "nombreValeurs": 240
+          }
+        },
+        "facteurs": {
+          "type": "object",
+          "statistiques": {
+            "nombreValeurs": 240
+          }
+        }
+      },
+      "qualiteGlobale": "Excellente"
+    },
+    {
+      "nomFichier": "consommation_2025-06-21_1750535821727.json",
+      "taille": 240,
+      "type": "consommation",
+      "valeursManquantes": 0,
+      "doublons": 0,
+      "valeursAberrantes": 0,
+      "plageTemporelle": {
+        "debut": "2025-06-20T22:00:00.000Z",
+        "fin": "2025-06-21T21:00:00.000Z",
+        "duree": 23
+      },
+      "champs": {
+        "idZone": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 1,
+            "max": 10,
+            "moyenne": 5.5,
+            "nombreValeurs": 240
+          }
+        },
+        "consommationKwh": {
+          "type": "numerique",
+          "statistiques": {
+            "min": 257.64,
+            "max": 2141.87,
+            "moyenne": 933.1678749999993,
+            "nombreValeurs": 240
+          }
+        },
+        "typeEnergie": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 1,
+            "longueurMoyenne": 10,
+            "nombreValeurs": 240
+          }
+        },
+        "horodatage": {
+          "type": "texte",
+          "statistiques": {
+            "valeursUniques": 24,
+            "longueurMoyenne": 24,
+            "nombreValeurs": 240
+          }
+        },
+        "facteurs": {
+          "type": "object",
+          "statistiques": {
+            "nombreValeurs": 240
+          }
+        }
+      },
+      "qualiteGlobale": "Excellente"
+    }
+  ],
+  "problemes": [],
+  "statistiques": {
+    "totalPoints": 505,
+    "qualiteMoyenne": 90,
+    "problemesMajeurs": [
+      "meteo_2025-06-21_1750535636867.json: fichier vide"
+    ]
+  }
+}
