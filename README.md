@@ -1,46 +1,30 @@
-# Projet_API_DL ***Smart Energy Predictor***
+# Smart Energy Predictor ⚡
+*Prédiction énergétique urbaine avec APIs et Deep Learning*
 
-##  Objectifs
-- Prédire la consommation énergétique urbaine avec du deep learning
-- Créer une API pour collecter et distribuer les données
-- Visualiser les prédictions en temps réel
+## À propos du projet
 
-##  APIs gratuites utilisées
-- **OpenWeatherMap** : Données météo (1000 calls/jour gratuit)
-- **JSONPlaceholder** : Données démographiques simulées
-- **Alpha Vantage** : Prix énergétiques (500 calls/jour gratuit)
-- **Nominatim** : Géolocalisation (illimité)
+Ce projet personnel a été développé dans le cadre de mon Master 1 MIASHS. L'objectif ? Créer un système capable de prédire la consommation énergétique urbaine en temps réel en combinant APIs et deep learning.
 
+Pourquoi ce projet ? Parce que la gestion énergétique urbaine est un vrai défi, et qu'on peut apporter des solutions concrètes avec l'IA !
 
+## 🎯 Objectifs
 
-### **API (Node.js)**
-```
-GET /weather/:city     → Récupère météo
-GET /demographics/:id  → Données population
-POST /consumption      → Envoie nouvelles données
-POST /feedback        → Retours utilisateur
-```
+- **Prédire** la consommation énergétique urbaine avec du deep learning
+- **Intégrer** des données hétérogènes via des APIs que j'ai développées
+- **Visualiser** les prédictions en temps réel dans un dashboard interactif
+- **Appliquer** l'approche MIASHS : maths + informatique + sciences humaines
 
-### **Deep Learning (Python)**
-- **Modèle** : LSTM hybride pour séries temporelles
-- **Input** : Météo + démographie + consommation passée
-- **Output** : Prédiction consommation 24h
-- **Loss** : MSE + pénalité pics de consommation
+## 🌐 APIs et sources de données
 
-### **Visualisation (JavaScript)**
-- Dashboard temps réel
-- Graphiques prédictions vs réalité
-- Cartes de consommation par quartier
-- Alertes d'optimisation
+### APIs externes utilisées
+- **OpenWeatherMap** : Données météo (température, humidité) - 1000 appels/jour gratuit
+- **JSONPlaceholder** : Données démographiques simulées pour 10 zones urbaines
+- **Institut National** : Données de population et densité (quand disponibles)
 
-##  Architecture GitHub
-```
-- main : Branche stable de production
-- develop : Intégration et tests
-- feature/api-backend : Développement API REST
-- feature/data-collection : Intégration APIs externes
-- feature/frontend-viz : Dashboard et visualisations
-- feature/ml-model : Modèles deep learning
-```
-##  Livrable
-Système complet fonctionnel d'ici le 06/07/2025
+### Mon API REST (Node.js/Express)
+```javascript
+GET  /meteo/:ville        → Récupère données météo
+GET  /demographie/:id     → Infos démographiques par zone
+POST /consommation        → Envoi nouvelles données
+GET  /ml-results          → Métriques du modèle (91% précision)
+GET  /dashboard           → Interface de visualisation
