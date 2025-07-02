@@ -25,12 +25,13 @@ Pourquoi ce projet ? Parce que la gestion énergétique urbaine est un vrai déf
 
 ### Mon API REST (Node.js/Express)
 
-```javascript
+``javascript
 GET  /meteo/:ville        → Récupère données météo  
 GET  /demographie/:id     → Infos démographiques par zone  
 POST /consommation        → Envoi nouvelles données  
 GET  /ml-results          → Métriques du modèle (91% précision)  
 GET  /dashboard           → Interface de visualisation
+``
 
 | Branche                   | Utilité                               |
 | ------------------------- | ------------------------------------- |
