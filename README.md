@@ -1,57 +1,42 @@
-# Smart Energy Predictor ⚡
+# Smart Energy Predictor ⚡  
 *Prédiction énergétique urbaine avec APIs et Deep Learning*
 
-## 🎯 À propos
+## À propos du projet
 
-Projet personnel Master 1 MIASHS combinant APIs et deep learning pour prédire la consommation énergétique urbaine en temps réel. Performance : **91% de précision**.
+Ce projet personnel a été développé dans le cadre de mon Master 1 MIASHS.  
+L'objectif ? Créer un système capable de prédire la consommation énergétique urbaine en temps réel en combinant APIs et deep learning.
 
-## 🚀 Démarrage rapide
+Pourquoi ce projet ? Parce que la gestion énergétique urbaine est un vrai défi, et qu'on peut apporter des solutions concrètes avec l'IA !
 
-```bash
-# Cloner et installer
-git clone https://github.com/username/smart-energy-predictor
-cd smart-energy-predictor
-npm install && pip install -r requirements.txt
+## 🎯 Objectifs
 
-# Lancer le système
-npm start                    # API Express (port 3000)
-python ml_server.py         # Modèle ML (port 5000)
-# Dashboard : http://localhost:3000/dashboard
-🧠 Architecture Deep Learning
-Modèle hybride : CNN multi-échelles + BiLSTM + Attention (8 têtes)
-python# Utilisation
-model = build_smart_energy_predictor()
-prediction = model.predict([sequence_24h, context_zone])
-Entrées :
+- **Prédire** la consommation énergétique urbaine avec du deep learning  
+- **Intégrer** des données hétérogènes via des APIs que j'ai développées  
+- **Visualiser** les prédictions en temps réel dans un dashboard interactif  
+- **Appliquer** l'approche MIASHS : maths + informatique + sciences humaines
 
-Séquence 24h × 8 features (consommation, heure, météo...)
-Contexte 11 features (population, densité, type zone...)
+## 🌐 APIs et sources de données
 
-Performance : 91% précision | 89.5% pics | <100ms inférence
-🌐 API REST
-javascriptGET  /meteo/:ville        # Données météo OpenWeatherMap
-GET  /demographie/:id     # Info zones urbaines (JSONPlaceholder)
-POST /consommation        # Nouvelles données IoT
-GET  /ml-results          # Métriques modèle (91%)
-GET  /dashboard           # Interface temps réel
-📊 Dashboard
+### APIs externes utilisées
 
-Métriques temps réel : Température, consommation, précision
-Graphiques 24h : Prédictions vs réalité (5 zones)
-Analyse zones : 9 quartiers avec alertes critiques
-Collecte live : Logs automatisés avec horodatage
+- **OpenWeatherMap** : Données météo (température, humidité) - 1000 appels/jour gratuit  
+- **JSONPlaceholder** : Données démographiques simulées pour 10 zones urbaines  
+- **Institut National** : Données de population et densité (quand disponibles)
 
-🔧 Organisation Git
-BrancheUtilitémainProduction stable, déploiementdevelopIntégration features, testsfeature/api-backendAPIs Express + collecteurs Node.jsfeature/data-collectionScripts Python collecte/preprocessingfeature/frontend-vizDashboard HTML/CSS/JS interactiffeature/ml-modelModèles TensorFlow + architectures DL
-🛠️ Stack Technique
-Backend : Node.js, Express, Axios
-ML : Python, TensorFlow, NumPy, Pandas
-Frontend : HTML5, CSS3, JavaScript, Charts.js
-DevOps : Git/GitHub (6 branches), VS Code, Postman
-📈 Innovations
+### Mon API REST (Node.js/Express)
 
-✅ Loss composite 5 composants (MSE + pics + tendances + cyclique + stabilité)
-✅ CNN multi-échelles (3h/7h/15h patterns)
-✅ Attention spécialisée énergie (8 têtes)
-✅ Workflow Git professionnel (branches spécialisées)
-✅ Architecture modulaire (APIs + ML + Viz)
+```javascript
+GET  /meteo/:ville        → Récupère données météo  
+GET  /demographie/:id     → Infos démographiques par zone  
+POST /consommation        → Envoi nouvelles données  
+GET  /ml-results          → Métriques du modèle (91% précision)  
+GET  /dashboard           → Interface de visualisation
+
+| Branche                   | Utilité                               |
+| ------------------------- | ------------------------------------- |
+| `main`                    | Production stable, déploiement        |
+| `develop`                 | Intégration features, tests           |
+| `feature/api-backend`     | APIs Express + collecteurs Node.js    |
+| `feature/data-collection` | Scripts Python collecte/preprocessing |
+| `feature/frontend-viz`    | Dashboard HTML/CSS/JS interactif      |
+| `feature/ml-model`        | Modèles TensorFlow + architectures DL |
